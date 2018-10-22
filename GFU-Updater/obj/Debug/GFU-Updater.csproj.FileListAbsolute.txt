@@ -1,0 +1,7 @@
+H:\Jonas\Documents\GitHub\FilmUtilities-17\GFU-Updater\bin\Debug\GFU-Updater.exe.config
+H:\Jonas\Documents\GitHub\FilmUtilities-17\GFU-Updater\bin\Debug\GFU-Updater.exe
+H:\Jonas\Documents\GitHub\FilmUtilities-17\GFU-Updater\bin\Debug\GFU-Updater.pdb
+H:\Jonas\Documents\GitHub\FilmUtilities-17\GFU-Updater\obj\Debug\GFU-Updater.csprojAssemblyReference.cache
+H:\Jonas\Documents\GitHub\FilmUtilities-17\GFU-Updater\obj\Debug\GFU-Updater.csproj.CoreCompileInputs.cache
+H:\Jonas\Documents\GitHub\FilmUtilities-17\GFU-Updater\obj\Debug\GFU-Updater.exe
+H:\Jonas\Documents\GitHub\FilmUtilities-17\GFU-Updater\obj\Debug\GFU-Updater.pdb

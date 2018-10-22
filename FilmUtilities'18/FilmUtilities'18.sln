@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmUtilities'18", "FilmUtilities'18.csproj", "{6D8EE285-BC81-484C-9A97-2C3910DAFFD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GFU-Updater", "..\GFU-Updater\GFU-Updater.csproj", "{53C9FD72-E1EA-42AC-92AC-258F53D27D5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D8EE285-BC81-484C-9A97-2C3910DAFFD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D8EE285-BC81-484C-9A97-2C3910DAFFD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D8EE285-BC81-484C-9A97-2C3910DAFFD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D8EE285-BC81-484C-9A97-2C3910DAFFD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53C9FD72-E1EA-42AC-92AC-258F53D27D5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53C9FD72-E1EA-42AC-92AC-258F53D27D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53C9FD72-E1EA-42AC-92AC-258F53D27D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53C9FD72-E1EA-42AC-92AC-258F53D27D5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BD81422-BF4C-4B55-9281-F6BF521AEE65}
+	EndGlobalSection
+EndGlobal
